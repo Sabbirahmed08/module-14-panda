@@ -2,3 +2,13 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+/* header */
+.font{
+    font-size: 14px;
+    font-weight: 500;
+}
+/* slider */
+.slider-custom h1{
+    font-size: 45px;
+    color: #c81c5e;
+}
